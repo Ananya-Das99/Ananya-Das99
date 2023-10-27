@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ananya-Das99
 - 🎓 Graduated
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning Android Development.
 - 📫 Email-dasananya558@gmail.com
 
 <!---
