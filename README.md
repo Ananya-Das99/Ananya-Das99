@@ -1,7 +1,11 @@
 -👋 Hi, I'm Ananya Das
+
 -🎯 Power BI Developer | SQL Enthusiast | Data Storyteller
+
 -📊 I turn raw data into meaningful dashboards
+
 -✨ Making data speak louder than words
+
 -📫 dasananya558@gmail.com
 
 
