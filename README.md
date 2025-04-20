@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ananya-Das99
-- 🎓 Graduated
-- 👀 I’m interested in coding.
+- 🎓 Power BI Developer
+- 👀 I make Data Interesting.
 - 📫 Email-dasananya558@gmail.com
 
 <!---
